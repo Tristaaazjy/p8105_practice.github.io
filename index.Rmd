@@ -11,7 +11,11 @@ output:
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 Here is some text. I use [google](https://www.google.com/) all the time to do data science.
 
-![](images/)
+![](images/LA.JPG)
+
+<center>
+<image src='images/LA.JPG' style = "width:25%">
+</center>
 
 ```{r}
 library(tidyverse)
@@ -21,3 +25,7 @@ mean(sample)
 ```
 
 Here's a direct link to the about page: [about](about.html)
+
+## New Section
+
+[Here's](ploty.html) a page with ploty plots
